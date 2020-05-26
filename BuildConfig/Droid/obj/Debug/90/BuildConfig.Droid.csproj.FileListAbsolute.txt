@@ -1,0 +1,5 @@
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\Droid\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\Droid\obj\Debug\90\BuildConfig.Droid.csprojAssemblyReference.cache
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\Droid\obj\Debug\90\libraryimports.cache.stamp
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\Droid\obj\Debug\90\res.flag
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\Droid\obj\Debug\90\BuildConfig.Droid.csproj.CoreCompileInputs.cache

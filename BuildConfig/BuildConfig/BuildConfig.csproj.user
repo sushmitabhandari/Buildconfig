@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <EnvironmentVariables>
+      <Variable name="Country" value="UK" />
+      <Variable name="APP_DISPLAY_NAME" value="TestEnv" />
+      <Variable name="APP_ICON_FOLDER" value="Assets.xcassets/AppIcon.alpha.appiconset" />
+      <Variable name="APP_VERSION" value="23" />
+    </EnvironmentVariables>
+  </PropertyGroup>
+</Project>

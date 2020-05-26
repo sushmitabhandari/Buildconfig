@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+   <appSettings>
+      <add key="Key0" value="0" />
+      <add key="Key1" value="1" />
+      <add key="Key2" value="2" />
+   </appSettings>
+   <items>
+      <uses-sdk android:minSdkVersion="18" />
+	  </uses-sdk>
+      <application android:label="BuildConfig" android:icon = "@mipmap/icon"></application>
+	  <string name="app_name"></string>
+   </items>
+</configuration>

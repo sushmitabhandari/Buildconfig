@@ -1,0 +1,6 @@
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\bin\Debug\BuildConfig.dll
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\bin\Debug\BuildConfig.pdb
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\obj\Debug\BuildConfig.csprojAssemblyReference.cache
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\obj\Debug\BuildConfig.csproj.CoreCompileInputs.cache
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\obj\Debug\BuildConfig.dll
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\obj\Debug\BuildConfig.pdb

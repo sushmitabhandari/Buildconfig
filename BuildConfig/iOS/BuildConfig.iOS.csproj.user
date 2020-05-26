@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <EnvironmentVariables>
+      <Variable name="API_URL" value="US" />
+      <Variable name="APPCENTER_SOURCE_DIRECTORY" value="./" />
+      <Variable name="BUNDLE_ID_SUFFIX" value=".beta" />
+    </EnvironmentVariables>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\bin\Release\BuildConfig.dll
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\obj\Release\BuildConfig.csprojAssemblyReference.cache
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\obj\Release\BuildConfig.csproj.CoreCompileInputs.cache
+C:\Users\Sumit Bisht\Desktop\sushmita\BuildConfigFinal\BuildConfig\BuildConfig\obj\Release\BuildConfig.dll
+C:\Users\Sumit Bisht\Desktop\sushmita\B-C-Final\BuildConfig\BuildConfig\bin\Release\BuildConfig.dll
+C:\Users\Sumit Bisht\Desktop\sushmita\B-C-Final\BuildConfig\BuildConfig\obj\Release\BuildConfig.csprojAssemblyReference.cache
+C:\Users\Sumit Bisht\Desktop\sushmita\B-C-Final\BuildConfig\BuildConfig\obj\Release\BuildConfig.csproj.CoreCompileInputs.cache
+C:\Users\Sumit Bisht\Desktop\sushmita\B-C-Final\BuildConfig\BuildConfig\obj\Release\BuildConfig.dll

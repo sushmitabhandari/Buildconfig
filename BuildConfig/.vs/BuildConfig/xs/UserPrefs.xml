@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{5BC366CB-F745-4F6F-A95C-70B1F0C07AC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="15" Column="32" IsPinned="True" />
+      <File FileName="iOS/ViewController.cs" />
+      <File FileName="BuildConfig/Config.xml" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="5" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuildConfig" expanded="True">
+            <Node name="BuildConfig" expanded="True" />
+            <Node name="BuildConfig.Droid" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="mipmap-xxhdpi" expanded="True" />
+                <Node name="mipmap-xxxhdpi" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BuildConfig.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BuildConfig.Droid FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BuildConfig.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.297D5386-2121-44B4-B8FB-EF9393AF12EA" />
+</Properties>

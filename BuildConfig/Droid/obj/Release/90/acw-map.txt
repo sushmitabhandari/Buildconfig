@@ -1,0 +1,3 @@
+BuildConfig.Droid.MainActivity, BuildConfig.Droid;crc647c9a69558cf9c27a.MainActivity
+BuildConfig.Droid.MainActivity;crc647c9a69558cf9c27a.MainActivity
+buildconfig.droid.MainActivity;crc647c9a69558cf9c27a.MainActivity
